@@ -1,0 +1,5 @@
+.table__text_theme_dark {
+    flex-direction: column;
+    margin-top: 20px;
+    z-index: 1;
+}

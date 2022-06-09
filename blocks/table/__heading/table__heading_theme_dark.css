@@ -1,0 +1,4 @@
+.table__heading_theme_dark {
+    flex-direction: column;
+    z-index: 1;
+}

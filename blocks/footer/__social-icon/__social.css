@@ -1,0 +1,9 @@
+.footer__social-icon {
+    vertical-align: middle;
+}
+
+.footer__column__social {
+    position: absolute;
+    right: 5%;
+    flex-direction: column;
+}

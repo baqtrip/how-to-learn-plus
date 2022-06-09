@@ -1,0 +1,10 @@
+.table__cell {
+    flex-direction: column;
+    justify-items: flex-start;
+    width: 250px;
+    margin-top: 35px;
+    margin-right: 20px;
+    margin-left: 0;
+    margin-left: 0;
+
+}

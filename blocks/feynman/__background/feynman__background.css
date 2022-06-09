@@ -1,0 +1,6 @@
+.feynman__background {
+    position: relative;
+    bottom: 200px;
+    left: 80px;
+    z-index: -2;
+}
