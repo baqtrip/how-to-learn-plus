@@ -1,5 +1,6 @@
 .header__title {
     font-size: 102px;
+    line-height: 96px;
     font-weight: bold;
     width: 730px;
     position: absolute;
@@ -7,5 +8,4 @@
     margin-left: 64px;
     border: rebeccapurple 1px solid;
     display: flex;
-    line-height: 96px;
 }

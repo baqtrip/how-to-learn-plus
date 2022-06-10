@@ -6,4 +6,5 @@
     position: absolute;
     right: 5%;
     flex-direction: column;
+    top: 65px;
 }

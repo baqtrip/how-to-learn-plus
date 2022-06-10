@@ -2,6 +2,7 @@
     margin: 0 auto;
     line-height: 23px;
     font-weight: 18px;
-    font-weight: normal;
+    font-weight: regular;
+    font-family: 'Inter';
     text-align: center;
 }

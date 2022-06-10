@@ -3,5 +3,7 @@
     margin: auto;
     position: relative;
     bottom: 50px;
-
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }

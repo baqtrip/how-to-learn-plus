@@ -2,13 +2,11 @@
     color: white;
     flex-direction: column;
     z-index: 1;
-
 }
 
 .section-subtitle_theme-dark {
     color: white;
     z-index: 1;
-
 }
 
 .section-title {

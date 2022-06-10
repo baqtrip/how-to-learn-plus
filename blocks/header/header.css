@@ -8,5 +8,4 @@
   position: relative;
   flex-direction: row;
   display: flex;
-  /* выше установили ограничения для секции */
 }
