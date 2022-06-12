@@ -1,0 +1,5 @@
+.footer__column__content-info {
+    flex-direction: row;
+    left: 900px;
+    display: block;
+}

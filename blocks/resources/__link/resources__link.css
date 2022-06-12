@@ -3,3 +3,7 @@
     height: 38px;
     padding-right: 5px;
 }
+
+.resources__link:hover {
+    opacity: 50%;
+}

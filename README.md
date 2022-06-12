@@ -1,1 +1,3 @@
-# first-project
+# how-to-learn-plus
+
+Описание проекта: сайт научит вас учиться

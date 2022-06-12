@@ -1,11 +1,10 @@
 .header__title {
+    display: flex;
     font-size: 102px;
     line-height: 96px;
     font-weight: bold;
     width: 730px;
-    position: absolute;
-    margin-top: 300px;
+    margin-top: 250px;
     margin-left: 64px;
-    border: rebeccapurple 1px solid;
-    display: flex;
+    z-index: 2;
 }

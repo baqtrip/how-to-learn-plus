@@ -1,7 +1,6 @@
 .table__cell_theme_dark {
     width: 200px;
     color: white;
-    z-index: 1;
     flex-direction: column;
     justify-items: flex-start;
     margin-top: 80px;

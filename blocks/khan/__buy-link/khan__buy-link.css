@@ -3,7 +3,12 @@
     font-size: 30px;
     font-weight: normal;
     width: 400px;
-    margin-left: 48px;
+    margin-left: 49px;
     position: relative;
-    margin-top: 0px;
+    margin-top: -9px;
+    text-decoration: none;
+}
+
+.khan__buy-link:hover {
+    opacity: 50%;
 }

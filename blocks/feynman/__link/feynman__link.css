@@ -4,4 +4,10 @@
     font-weight: normal;
     position: absolute;
     right: 48px;
+    top: 311px;
+    text-decoration: none;
+}
+
+.feynman__link:hover {
+    opacity: 50%;
 }

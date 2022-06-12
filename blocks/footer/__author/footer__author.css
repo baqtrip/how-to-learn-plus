@@ -1,7 +1,8 @@
-.footer__author {
-    position: relative;
-    top: 253px;
-    line-height: 25px;
+  .footer__author {
     font-size: 18px;
     font-weight: normal;
-}
+    padding-top: 200px;
+    line-height: 25px;
+    font-size: 18px;
+    width: 200px;
+  }
