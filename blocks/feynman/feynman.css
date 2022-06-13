@@ -3,7 +3,10 @@
     position: relative;
     background-color: #f2f2f2;
     z-index: 2;
-    position: relative;
-    bottom: 200px;
-    height: 740px;
+    box-sizing: border-box;
+    min-height: 740px;
+    background-image: url("/images/feynman.png");
+    background-repeat: no-repeat;
+    background-position: 100px 110px;
+    margin-bottom: 100px;
 }

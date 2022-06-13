@@ -7,12 +7,3 @@
         transform: rotate(360deg);
     }
 }
-
-.kaufman__triangle {
-    animation: rotation linear 15s infinite;
-
-}
-
-.header__square-pic {
-    animation: rotation linear 15s infinite;
-}

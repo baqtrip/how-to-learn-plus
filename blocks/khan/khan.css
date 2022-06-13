@@ -1,9 +1,6 @@
 .khan {
     background-color: #f2f2f2;
     margin: 0 auto;
-    position: relative;
-    bottom: 50px;
-    display: flex;
-    flex-direction: row;
     flex-wrap: nowrap;
+    box-sizing: border-box;
 }

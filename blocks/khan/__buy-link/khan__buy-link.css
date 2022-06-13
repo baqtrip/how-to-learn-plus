@@ -2,12 +2,10 @@
     line-height: 42px;
     font-size: 30px;
     font-weight: normal;
-    width: 400px;
-    margin-left: 49px;
-    position: relative;
-    margin-top: -9px;
+    margin-left: 48px;
     text-decoration: none;
     color: #2f80ed;
+    align-self: flex-start;
 }
 
 .khan__buy-link:hover {

@@ -5,6 +5,5 @@
   background-color: #f2f2f2;
   overflow: hidden;
   position: relative;
-  flex-direction: row;
   display: flex;
 }

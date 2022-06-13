@@ -4,7 +4,9 @@
     font-weight: normal;
     line-height: 25px;
     bottom: 30px;
-    margin-left: 64px;
+    margin-top: 0;
+    margin-bottom: 0;
+    left: 64px;
     width: 388px;
     z-index: 2;
 }
