@@ -1,8 +1,11 @@
 .two-columns__main-text {
-    display: block;
+    display: flex;
     font-weight: normal;
     line-height: 34px;
+    gap: 30px;
     font-size: 24px;
-    width: 784px;
-    margin-left: 50px;
+    min-width: 784px;
+    flex-direction: column;
+    width: 80%;
+
 }

@@ -4,9 +4,9 @@
     font-weight: normal;
     position: absolute;
     right: 48px;
-    top: 311px;
+    top: 50%;
     text-decoration: none;
-    color: #2f80ed;
+    color: black;
 }
 
 .feynman__link:hover {
